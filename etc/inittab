@@ -1,0 +1,2 @@
+::sysinit:/etc/start
+::respawn:cat /dev/hidraw0 > /dev/hidg0

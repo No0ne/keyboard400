@@ -1,0 +1,2 @@
+disable_splash=1
+dtoverlay=dwc2
