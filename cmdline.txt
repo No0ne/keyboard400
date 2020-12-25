@@ -1,1 +1,1 @@
-init=/bin/init console=ttyAMA0 root=/dev/mmcblk0p1 rootwait rw quiet
+init=/bin/init console=ttyAMA0 root=/dev/mmcblk0p1 rootwait ro quiet
